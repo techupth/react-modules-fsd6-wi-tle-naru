@@ -58,7 +58,7 @@ nav {
 
 /* Main section */
 
-main {
+section {
   display: flex;
   justify-content: space-between;
   gap: 30px;
